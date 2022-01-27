@@ -17,6 +17,7 @@
 
 <img align="left" alt="Electron" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />
 
+<img align="left" alt="Docker" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Freklatsmasters%2Fvscode-wasm%2Fmaster%2Fimages%2Fvscode-wasm-logo.png&f=1&nofb=1" />
 
 <img align="left" alt="Unity" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdzone.com%2Fstorage%2Ftemp%2F13130265-jest-logo-png-transparent.png&f=1&nofb=1" />
 

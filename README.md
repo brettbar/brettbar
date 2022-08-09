@@ -1,5 +1,5 @@
 ##  Hi, I'm Brett, Welcome to my Github.
-- I'm a Software Engineer on the SDK team at Kochava Inc in beautiful Sandpoint, ID.
+- I'm a Software Engineer at Two Barrels LLC, based out of Spokane, Washington.
 - My career interests are software engineering, web development, and game development.
 - I'm passionate about Computer Science, as well as History.
 
